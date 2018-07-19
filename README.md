@@ -23,7 +23,7 @@ TL;DR; To either suggest a new project / idea or evolve a process, the governanc
 
 ## License
 
-This repository is licensed under the Apache License, Version 2.0 ([LICENSE](../blob/master/LICENSE))
+This repository is licensed under the Apache License, Version 2.0 ([LICENSE](../master/LICENSE))
 
 ## Influence
 
