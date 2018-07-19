@@ -36,6 +36,4 @@ Adoption of the latest version ([1.4](https://www.contributor-covenant.org/versi
 # Consequences
 [consequences]: #consequences
 
-What effects necessarily follow as a result of adoption of the decision made?
-
 The conduct within all projects owned by the Topgolf Labs organization will adhere to the contributor covenant (version 1.4). Additionally, all projects owned by the Topgolf Labs organization shall maintain a copy of the the contributor covenant (version 1.4) located in the root of the project repository under the name `CODE_OF_CONDUCT.md`.
